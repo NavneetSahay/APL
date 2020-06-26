@@ -42,10 +42,6 @@ vector2<-c(10,11,12,13,14,15)
 #take these 2 vectors as input to array
 result<-array(c(vector1,vector2),dim=c(3,3,2))
 print(result)
-
-
-
-
 =================================================
 #1
 a<-c(1,4,9,16,25)
